@@ -14,5 +14,5 @@ docs/
 .env
 
 broadcast/
-lib/
+# lib/
 .DS_Store
